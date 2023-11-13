@@ -198,4 +198,8 @@
   html {
     font-size: 50.2%;
   }
+
+  .s-about .container .about-me p {
+    margin: 3.2rem auto;
+  }
 }

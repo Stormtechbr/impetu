@@ -70,6 +70,14 @@ header .container nav .menu-social img:hover {
   padding: 6px 12px;
 }
 
+.title p strong {
+  color: #00ff00;
+}
+
+.title p a {
+  color: blue;
+}
+
 .techs img {
   width: 50px;
 }
@@ -246,9 +254,7 @@ header .container nav .menu-social img:hover {
   font-size: 1.6rem;
   color: rgba(255, 255, 255, 0.83);
   margin-top: 2.4rem;
-  width: 90%;
-  text-align: center;
-  margin: auto;
+  width: 90%;  
 }
 
 .s-about .container .about-me ul {

@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: white;
-  --second-color: #006172;
+  --second-color: rgb(255, 255, 255);
   --black-color: #000000;
   --black-color-medium: #0c0c0c;
   --semi-black: #1e1e1e;
@@ -28,7 +28,7 @@
 h2 {
   font-family: "Inter";
   font-weight: 800;
-  font-size: 6.4rem;
+  font-size: 4.8rem;
   line-height: 7.7rem;
   color: var(--white-color);
   margin-top: 2rem;
@@ -55,7 +55,7 @@ h2 span {
 }
 
 .btn-primary.empty {
-  border: 2px solid var(--primary-color);
+  border: 2px solid rgb(0, 255, 247);
   border-radius: 24px;
   color: var(--primary-color);
   background-color: transparent;
